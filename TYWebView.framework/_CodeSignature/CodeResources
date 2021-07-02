@@ -20,6 +20,10 @@
 		<data>
 		3QtnUb0hDk1JeUcF9s/WDvH9kTU=
 		</data>
+		<key>Headers/TinyBaseProtocol.h</key>
+		<data>
+		/Kg0onEm6nG5qLiM9lzm2f5sHR8=
+		</data>
 		<key>Headers/TinyCryptoProtocol.h</key>
 		<data>
 		a1UA9FRwP8AZG0dMHhNhPVotJBE=
@@ -39,6 +43,10 @@
 		<key>Headers/TinyService.h</key>
 		<data>
 		CcM+qPJLj7PhiIxzuXzWHNaEc9U=
+		</data>
+		<key>Headers/TinyUINetworkProtocol.h</key>
+		<data>
+		zRfbOURZbdAuJYWJ9LHsyqb9JKE=
 		</data>
 		<key>Headers/TinyWebBridgeProxy.h</key>
 		<data>
@@ -111,6 +119,17 @@
 			2EsPPsXmAf1c0JaG4bFIeLIttx8qnp9QODaS+YHORM4=
 			</data>
 		</dict>
+		<key>Headers/TinyBaseProtocol.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/Kg0onEm6nG5qLiM9lzm2f5sHR8=
+			</data>
+			<key>hash2</key>
+			<data>
+			VwEjlyys6ZubAIloRCw1soaA6PBJpsOsqWHFT/+Gr6M=
+			</data>
+		</dict>
 		<key>Headers/TinyCryptoProtocol.h</key>
 		<dict>
 			<key>hash</key>
@@ -164,6 +183,17 @@
 			<key>hash2</key>
 			<data>
 			iWO2/3CE5goMXXRnSHbVhtR6aBa4CL9OM0OqIg+1JNU=
+			</data>
+		</dict>
+		<key>Headers/TinyUINetworkProtocol.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zRfbOURZbdAuJYWJ9LHsyqb9JKE=
+			</data>
+			<key>hash2</key>
+			<data>
+			QunQiuu5JnmJvOKDihBkNpCqQkVhgwDC/TfdHlF+rv4=
 			</data>
 		</dict>
 		<key>Headers/TinyWebBridgeProxy.h</key>
