@@ -16,7 +16,7 @@ s.source       = { :git => "https://github.com/HangzhouSunline/TYWebView.git", :
 
 s.vendored_frameworks = 'TYWebView.framework'
 s.frameworks = "UIKit", "Foundation"
-s.dependency 'openssl', '~>1.0.0'
+s.dependency 'openssl', '~>1.0'
 
 end
 
