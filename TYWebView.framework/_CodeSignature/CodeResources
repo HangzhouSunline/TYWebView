@@ -12,10 +12,6 @@
 		<data>
 		Qx7MyQfJ9NuJS3kq29e/aeC2iDY=
 		</data>
-		<key>Headers/TYWebView.h</key>
-		<data>
-		GqKYTWDbXGj+JEwmbiBMu5QviMg=
-		</data>
 		<key>Headers/TinyAutoRegister.h</key>
 		<data>
 		3QtnUb0hDk1JeUcF9s/WDvH9kTU=
@@ -60,6 +56,10 @@
 		<data>
 		R6HwyUhI6xglcxdi4UsGJfYgUVE=
 		</data>
+		<key>Headers/WKWebViewJavascriptBridge.h</key>
+		<data>
+		oa8e6OEZMy+jMca2CPe/UKX1I54=
+		</data>
 		<key>Headers/WebViewJavascriptBridgeBase.h</key>
 		<data>
 		X17D6JlybmfibqMLH+W6YJXHoY0=
@@ -95,17 +95,6 @@
 			<key>hash2</key>
 			<data>
 			ri0LWQ8Xtc077kMPWSMRQt6sMuQMkElFHzyLph1kFX0=
-			</data>
-		</dict>
-		<key>Headers/TYWebView.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			GqKYTWDbXGj+JEwmbiBMu5QviMg=
-			</data>
-			<key>hash2</key>
-			<data>
-			g4p+9/GFbyGPoRG5IcbGSDkjtVixtb8aHm4oxDmDYeg=
 			</data>
 		</dict>
 		<key>Headers/TinyAutoRegister.h</key>
@@ -227,6 +216,17 @@
 			<key>hash2</key>
 			<data>
 			FN2SvYtIThwBJijvTwCjXRAxSHzrLsCJnMqbBodsLBU=
+			</data>
+		</dict>
+		<key>Headers/WKWebViewJavascriptBridge.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oa8e6OEZMy+jMca2CPe/UKX1I54=
+			</data>
+			<key>hash2</key>
+			<data>
+			4Ww+TU+33I7mhxijDGpsAhdro/dvN8lKHD7F7iR7CCA=
 			</data>
 		</dict>
 		<key>Headers/WebViewJavascriptBridgeBase.h</key>
