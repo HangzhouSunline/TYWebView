@@ -1,0 +1,6 @@
+framework module TYWebView {
+  umbrella header "TYWebView.h"
+
+  export *
+  module * { export * }
+}
