@@ -12,8 +12,8 @@
 #if defined supportsWKWebView
 
 #import <Foundation/Foundation.h>
-#import "WebViewJavascriptBridgeBase.h"
 #import <WebKit/WebKit.h>
+#import "WebViewJavascriptBridgeBase.h"
 
 @interface WKWebViewJavascriptBridge : NSObject<WKNavigationDelegate, WebViewJavascriptBridgeBaseDelegate, WKUIDelegate>
 

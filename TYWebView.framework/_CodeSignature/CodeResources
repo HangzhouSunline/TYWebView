@@ -12,6 +12,10 @@
 		<data>
 		Qx7MyQfJ9NuJS3kq29e/aeC2iDY=
 		</data>
+		<key>Headers/TYWebView.h</key>
+		<data>
+		iNC1A945f5I1VMOzSW1jIgKYaLw=
+		</data>
 		<key>Headers/TinyAutoRegister.h</key>
 		<data>
 		3QtnUb0hDk1JeUcF9s/WDvH9kTU=
@@ -48,6 +52,10 @@
 		<data>
 		qGhZChMIsp/xawyKDsQ9izcY3N8=
 		</data>
+		<key>Headers/TinyWebView.h</key>
+		<data>
+		6oEebqyqgSeZxy3GJ52QsfabdBc=
+		</data>
 		<key>Headers/UIColorAdditions.h</key>
 		<data>
 		2D1RKp36qHFrTu4f/VrUcxhm3b0=
@@ -58,15 +66,19 @@
 		</data>
 		<key>Headers/WKWebViewJavascriptBridge.h</key>
 		<data>
-		oa8e6OEZMy+jMca2CPe/UKX1I54=
+		WExXmKBIeXGzgqvh8t0+bbpLYNo=
 		</data>
 		<key>Headers/WebViewJavascriptBridgeBase.h</key>
 		<data>
 		X17D6JlybmfibqMLH+W6YJXHoY0=
 		</data>
+		<key>Headers/WebViewJavascriptBridge_JS.h</key>
+		<data>
+		2+5a8e4Jt5iTSyXK1AHzEVTLqvw=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		pQxUqV4KxzPLu8Jb4bT4a+TIeXc=
+		iAjT9wh1gUu4ALH43wiM4QgWD5w=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -95,6 +107,17 @@
 			<key>hash2</key>
 			<data>
 			ri0LWQ8Xtc077kMPWSMRQt6sMuQMkElFHzyLph1kFX0=
+			</data>
+		</dict>
+		<key>Headers/TYWebView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iNC1A945f5I1VMOzSW1jIgKYaLw=
+			</data>
+			<key>hash2</key>
+			<data>
+			U70tKwm4AGTEz/wYmqw3UeJjZw5+veC8I6yqU4az3XU=
 			</data>
 		</dict>
 		<key>Headers/TinyAutoRegister.h</key>
@@ -196,6 +219,17 @@
 			qXoAmXBtfPhiz+N2ulb3jL49V4R+mvmx5sGXvCH+9+w=
 			</data>
 		</dict>
+		<key>Headers/TinyWebView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6oEebqyqgSeZxy3GJ52QsfabdBc=
+			</data>
+			<key>hash2</key>
+			<data>
+			XzEDbp31fb+rW9JtwzHf3YI4/96AaIb2XxaWDlpSt5g=
+			</data>
+		</dict>
 		<key>Headers/UIColorAdditions.h</key>
 		<dict>
 			<key>hash</key>
@@ -222,11 +256,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oa8e6OEZMy+jMca2CPe/UKX1I54=
+			WExXmKBIeXGzgqvh8t0+bbpLYNo=
 			</data>
 			<key>hash2</key>
 			<data>
-			4Ww+TU+33I7mhxijDGpsAhdro/dvN8lKHD7F7iR7CCA=
+			bQaqyMldTX+FoTKylQQZB6Z1Fws9jFv6Lct+WrzhsAw=
 			</data>
 		</dict>
 		<key>Headers/WebViewJavascriptBridgeBase.h</key>
@@ -238,6 +272,17 @@
 			<key>hash2</key>
 			<data>
 			NEoogghgAQ2JharmwydWhzMz1WAhRF29q68S6nxtxX0=
+			</data>
+		</dict>
+		<key>Headers/WebViewJavascriptBridge_JS.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2+5a8e4Jt5iTSyXK1AHzEVTLqvw=
+			</data>
+			<key>hash2</key>
+			<data>
+			LEkzAz6VW8QdKoFtIMjRL2rKg/ApOjv52B12sYk7ZUM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
