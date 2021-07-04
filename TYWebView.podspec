@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
 # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 s.name         = "TYWebView"
-s.version      = "1.0.3"
+s.version      = "1.0.4"
 s.summary      = "TYWebView"
 s.description  = <<-DESC
                TYWebView
